@@ -1,3 +1,3 @@
 # helloworld
-RJY's first repository
+RJY's firt repository,delete a"s"
 202009161012 creat this change
